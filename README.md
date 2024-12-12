@@ -12,4 +12,5 @@
 `python knights_and_knaves.py`  
 
 - 提示 Which text file do you want to use for the puzzle?  
-- 输入 test1.txt 回车
+- 输入 test_1.txt 回车
+- 输出成果 “The Sirs are: Eleonore Sanjay" "There is no solution”  
