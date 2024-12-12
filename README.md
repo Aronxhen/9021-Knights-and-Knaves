@@ -13,4 +13,6 @@
 
 - 提示 Which text file do you want to use for the puzzle?  
 - 输入 test_1.txt 回车
-- 输出成果 “The Sirs are: Eleonore Sanjay" "There is no solution”  
+- 输出成果
+  “The Sirs are: Eleonore Sanjay"  展示成员  
+  "There is no solution”  展示答案数量  
